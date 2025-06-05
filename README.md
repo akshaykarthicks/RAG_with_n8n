@@ -22,7 +22,8 @@ This project implements a RAG (Retrieval-Augmented Generation) pipeline using [n
 ## 🚀 Workflow Overview
 
 ![Screenshot 2025-06-05 194059](https://github.com/user-attachments/assets/052071d4-02af-413f-bb66-a2a23510020e)
-![Screenshot 2025-06-05 194559](https://github.com/user-attachments/assets/f422b66e-4e65-4755-a664-b919c8027508)
+![image](https://github.com/user-attachments/assets/ef8f2c33-0917-406c-a5fc-d040d9ca986e)
+
 
 
 1. Trigger: Chat message or manual trigger
