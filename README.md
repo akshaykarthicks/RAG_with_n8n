@@ -1,4 +1,4 @@
-# 🧠 Supabase RAG Agent  using n8n
+# 🧠 Supabase RAG Agent  using n8n and supabase 
 
 This project implements a RAG (Retrieval-Augmented Generation) pipeline using [n8n](https://n8n.io/), integrated with OpenAI, Supabase, and PostgreSQL. It enables contextual AI chat with persistent memory and document search capabilities.
 
